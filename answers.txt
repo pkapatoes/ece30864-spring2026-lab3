@@ -13,3 +13,9 @@ achieve those goals. Sprint reviews are where completed work is discussed and de
 stakeholder input is gathered to better mvoe forward in the development process. Standup meetings are where the
 development team discusses what each team member is planning to do for the day, as well as what they hve already
 completed and any anticipated problems that they will have to deal with.
+
+4) Epics are larger issues that encompass a major feature of the product. They include Stories, Bugs, and Tasks
+and are the largest type of issue in Jira. Stories are smaller units of work that often describe a single feature
+or step in the development process. Bugs are problems that arise during the development of a product. They can be
+linked to other work items to represent what parts of the product they affect. Tasks are general items to be
+completed. They can be a part of a larger work item or can remain independent.
