@@ -2,3 +2,7 @@
 that it allows for input from the stakeholders as development happens. Some cons of Agile development are that
 there is less of a steady and well defined development process and it is more time consuming to constantly review
 progress and go through the revisions that are a part of Agile development.
+
+2) The product owner manages the backlog, coordinates between the business and the team, and decides when the
+product should be completed. The scrum master helps to facilitate the processes involved in the scrum, including
+meetings, planning, updates to goals, and development review.
