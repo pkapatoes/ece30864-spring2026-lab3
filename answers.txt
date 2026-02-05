@@ -10,7 +10,7 @@ meetings, planning, updates to goals, and development review.
 3) The 3 types of meetings that happen during a sprint cycle are sprint planning, sprint review, and standup
 meetings. Sprint planning meetings discuss the goals for the upcoming sprint as well as what the team will do to
 achieve those goals. Sprint reviews are where completed work is discussed and demonstrated, as well as where
-stakeholder input is gathered to better mvoe forward in the development process. Standup meetings are where the
+stakeholder input is gathered to better move forward in the development process. Standup meetings are where the
 development team discusses what each team member is planning to do for the day, as well as what they hve already
 completed and any anticipated problems that they will have to deal with.
 
