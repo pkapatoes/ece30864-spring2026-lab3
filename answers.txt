@@ -1,1 +1,4 @@
-
+1) Some pros of Agile dvelopment are that it allows for dynamic changes of the project requirements as well as
+that it allows for input from the stakeholders as development happens. Some cons of Agile development are that
+there is less of a steady and well defined development process and it is more time consuming to constantly review
+progress and go through the revisions that are a part of Agile development.
